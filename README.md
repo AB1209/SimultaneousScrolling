@@ -3,10 +3,10 @@
  
 I am using four section
 
-1. First it is static view no scrolling is allowed here.
-2. Second it can be scrolled horizontal only.
-3. Third it can be scrolled vertical only.
-4. Fourth it can be scrolled both vertically and horizontally.
+1. First; it is static view no scrolling is allowed here.
+2. Second; it can be scrolled horizontal only.
+3. Third; it can be scrolled vertical only.
+4. Fourth; it can be scrolled both vertically and horizontally.
 
 The interesting thing is that when second section is scrolled horizontally so simultaneously fourth section also scrolled in horizontal direction & vice versa and if third section is scrolled vertically so fourth section also scrolls in vertical direction and vice versa.
 
